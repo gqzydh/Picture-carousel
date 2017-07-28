@@ -1,4 +1,4 @@
-## 图片轮播##
+## 图片轮播
 
 1. Flexslider图片轮播、文字图片相结合滑动切换效果
 2. Flexslider官网地址：[http://www.woothemes.com/flexslider/](http://www.woothemes.com/flexslider/)
